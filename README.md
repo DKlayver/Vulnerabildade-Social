@@ -1,2 +1,4 @@
 # Vulnerabildade-Social
-Projeto acadêmico de Big Data onde os participantes realizaram a análise de um database público sobre vulnerabilidade social para encontrar a Relação entre o emprego informal e a expectativa de vida
+Projeto Acadêmico da matério de Big Data com Professor Max Castro
+
+Objetivo: Gerar informações sobre algumas relações socioeconomicas do brasil no viés de Vulnerabilidade Social, a partir de um CSV utilizando Python.
