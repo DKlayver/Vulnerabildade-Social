@@ -18,13 +18,8 @@
             2. Relação entre o desemprego e a escolaridade;
             3. Relação entre o índice de gini (medida para a desigualdade) e a escolaridade.
 
-        Após isso, será exibidaas informações obtidas em um PowerBi para a melhor apresentação.
+        Após isso, será exibida as informações obtidas em um PowerBi para a melhor apresentação.
 
 
 '''
-#pip install matplotlib
-#pip install pandas
-
-import matplotlib.pyplot as plt
-import pandas as pd
 
